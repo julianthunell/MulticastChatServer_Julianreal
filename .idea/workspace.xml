@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="677f78bc-cee8-4424-98ee-2d4d1b9545f8" name="Changes" comment="">
+    <list default="true" id="677f78bc-cee8-4424-98ee-2d4d1b9545f8" name="Changes" comment="sfasfasdf">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -47,11 +47,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716279275873</updated>
-      <workItem from="1716279276911" duration="851000" />
+      <workItem from="1716279276911" duration="1250000" />
     </task>
+    <task id="LOCAL-00001" summary="sfasfasdf">
+      <option name="closed" value="true" />
+      <created>1716280217694</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716280217694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sfasfasdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="sfasfasdf" />
   </component>
 </project>
